@@ -25,7 +25,8 @@ An end-to-end forecasting system for hourly yellow-taxi demand across 263 NYC zo
 
 `Python` · `LightGBM` · `Pandas` · `FastAPI` · `Streamlit` · `MLflow` · `SHAP`
 
-### Vision-Based Multi-Object Motion Tracking
+### [Vision-Based Multi-Object Motion Tracking](https://github.com/shyamsolanke/Msml-640-behavior-analysis)
+
 
 An end-to-end computer vision pipeline combining YOLOv8 detection, ByteTrack tracking, MobileSAM segmentation, trajectory interpolation, and motion analysis. The system reached 0.52 MOTA, 0.59 IDF1, and 0.79 mean IoU on MOT17-09.
 
