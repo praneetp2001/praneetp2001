@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/52770375?v=4" width="120" alt="Praneet Peshkar">
+  <img src="https://avatars.githubusercontent.com/u/52770375?v=4" width="500" alt="Praneet Peshkar">
 </p>
 
 <h1 align="center">Hi, I'm Praneet Peshkar 👋</h1>
