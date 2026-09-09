@@ -1,17 +1,33 @@
-# Hi, I'm Praneet Peshkar 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/52770375?v=4" width="120" alt="Praneet Peshkar">
+</p>
+
+<h1 align="center">Hi, I'm Praneet Peshkar 👋</h1>
+
+<p align="center">
+  <strong>AI Engineer · Software Engineer · Data Scientist</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/praneet-p/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ppraneetmail@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/praneetp2001"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
 
 I'm an AI and software engineer with 2+ years of experience building production software, machine learning systems, and AI applications. I work across Python backend services, cloud infrastructure, LLMs, RAG, agentic systems, and AI evaluation.
 
 I'm completing an M.S. in Data Science at the University of Maryland with a 4.0 GPA and am based in San Francisco, California.
 
-## What I'm working on
+## 🎯 What I'm working on
 
 - Building multi-agent RAG workflows with model routing, verification, and observability
 - Designing forecasting pipelines that report uncertainty alongside predictions
 - Exploring practical ways to make AI systems easier to evaluate, trace, and operate
 - Open to AI Engineer, ML Engineer, Applied Scientist, and Software Engineer opportunities
 
-## Featured projects
+## 🚀 Featured projects
 
 ### [OmniMind](https://github.com/praneetp2001/omnimind-agent-platform)
 
@@ -27,19 +43,18 @@ An end-to-end forecasting system for hourly yellow-taxi demand across 263 NYC zo
 
 ### [Vision-Based Multi-Object Motion Tracking](https://github.com/shyamsolanke/Msml-640-behavior-analysis)
 
-
 An end-to-end computer vision pipeline combining YOLOv8 detection, ByteTrack tracking, MobileSAM segmentation, trajectory interpolation, and motion analysis. The system reached 0.52 MOTA, 0.59 IDF1, and 0.79 mean IoU on MOT17-09.
 
 `Python` · `PyTorch` · `YOLOv8` · `ByteTrack` · `MobileSAM` · `Streamlit`
 
-## Experience
+## 💼 Experience
 
 - **Software Intern** — CATT Lab, University of Maryland
 - **Cybersecurity Threat Research Intern** — Arete Advisors
 - **Engineer I, Software Development** — Verizon Communications
 - **Data Analyst Intern** — Beroe
 
-## Tools I use
+## 🧰 Tools I use
 
 ### Languages
 
@@ -88,13 +103,17 @@ An end-to-end computer vision pipeline combining YOLOv8 detection, ByteTrack tra
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Education
+## 🎓 Education
 
 - **M.S. in Data Science**, University of Maryland — GPA: 4.0/4.0
 - **B.Tech. in Computer Science and Engineering**, GITAM — GPA: 8.8/10.0
 
-## Let's connect
+## 🤝 Let's connect
 
 I'm interested in applied AI, machine learning systems, forecasting, and developer tools. If you're working on something in that space, feel free to reach out.
 
-[LinkedIn](https://www.linkedin.com/in/praneet-p/) · [GitHub](https://github.com/praneetp2001) · [Email](mailto:ppraneetmail@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/praneet-p/">LinkedIn</a> ·
+  <a href="https://github.com/praneetp2001">GitHub</a> ·
+  <a href="mailto:ppraneetmail@gmail.com">Email</a>
+</p>
