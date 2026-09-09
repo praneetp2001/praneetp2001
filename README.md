@@ -1,48 +1,36 @@
 # Hi, I'm Praneet 👋
 
-AI Engineer | Data Scientist
+I build applied AI and machine learning systems with a focus on retrieval quality, forecasting, evaluation, and reliable deployment.
 
-I build production ready AI systems that combine LLMs, machine learning, and scalable backend engineering to solve real world problems.
+## What I'm working on
 
-## Currently
+- Building multi-agent RAG workflows with model routing, verification, and observability
+- Designing forecasting pipelines that report uncertainty alongside predictions
+- Exploring practical ways to make AI systems easier to evaluate, trace, and operate
 
-🔹 Building Vigil, an agentic financial crime investigation platform
-🔹 Building end to end ML systems for demand forecasting and explainable AI
-🔹 Exploring production LLM infrastructure, MCP, and AI evaluation
-🔹 Open to AI Engineer, ML Engineer, Applied Scientist, and Data Scientist opportunities
+## Featured projects
 
----
+### [OmniMind](https://github.com/praneetp2001/omnimind-agent-platform)
 
-## Tech Stack
+A multi-agent RAG platform for enterprise knowledge workflows. It brings document ingestion, semantic retrieval, reranking, model routing, tool execution, evaluation, and observability into a FastAPI service.
 
-**Languages**
-Python • SQL • R
+`Python` · `FastAPI` · `RAG` · `Multi-agent systems` · `PostgreSQL/pgvector` · `Redis` · `Docker`
 
-**AI & Machine Learning**
-LangGraph • RAG • MCP • FastAPI • PyTorch • Scikit Learn • LightGBM • MLflow • SHAP
+### [NYC Taxi Demand Forecasting](https://github.com/praneetp2001/nyc-taxi-demand-forecasting)
 
-**Infrastructure**
-Docker • PostgreSQL • pgvector • Redis • AWS • Linux • Git
+An end-to-end forecasting system for hourly yellow-taxi demand across 263 NYC zones. It uses walk-forward validation and LightGBM quantile models to produce P10, P50, and P90 forecasts, served through FastAPI and an interactive Streamlit dashboard.
 
-**Data Engineering**
-Spark • Kafka • Airflow • ETL • Feature Engineering
+`Python` · `LightGBM` · `Pandas` · `FastAPI` · `Streamlit` · `MLflow` · `SHAP`
 
----
+## Tools I use
 
-## Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Vigil
-An agentic financial crime investigation platform combining LLMs, MCP, RAG, and graph based reasoning to automate AML investigations and generate evidence backed reports.
+## Let's connect
 
-### 📈 Urban Mobility Demand Forecasting
-An end to end machine learning platform for forecasting NYC taxi demand with explainable predictions, uncertainty estimation, and production deployment.
-
----
-
-## Let's Connect
-
-💼 LinkedIn
-
-📧 Email
-
-🌐 Portfolio
+I'm interested in applied AI, machine learning systems, forecasting, and developer tools. If you're working on something in that space, feel free to reach out through [GitHub](https://github.com/praneetp2001).
